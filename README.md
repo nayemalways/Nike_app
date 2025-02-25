@@ -1,12 +1,11 @@
 # Nike Landing page
 
-This is a Nike single page landing page.
-
-Currently working in this project
+This is a single landing page for the Nike app.
+Currently working on this project
 
 ## Technology used:
 
-- Tailwind CSS
+- Tailwind (Learning Tailwind)
 - React 19
 
  
