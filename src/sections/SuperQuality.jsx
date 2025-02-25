@@ -10,7 +10,7 @@ const SuperQuality = () => {
         gap-10 w-full max-container ' >
              <div className="flex flex-1  flex-col">
                      <h2 className='font-palanquin capitalize text-4xl font-bold lg:max-w-lg'>
-                        We Provide you <span className='ext-coral-red'>Super</span> <span className='text-coral-red '>Quality</span> Shoes
+                        We Provide you <span className='text-coral-red'>Super</span> <span className='text-coral-red '>Quality</span> Shoes
                     </h2>
                     <p className='text-info mt-4 lg:max-w-lg'>Ensuring premium comfort and style, our meticulously crafted footwear is designed to elevate your experience, providing you with unmatched quality, innovation, and a touch of elegance</p>
 
