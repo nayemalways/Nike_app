@@ -4,7 +4,7 @@ This is a single landing page for the Nike app.
 
 ## Technology used:
 
-- Tailwind (Learning Tailwind)
+- Tailwind
 - React 19
 
 ## Live
